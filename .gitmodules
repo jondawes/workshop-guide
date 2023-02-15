@@ -1,0 +1,3 @@
+[submodule "oracle-exercises"]
+	path = oracle-exercises
+	url = git@github.com:jondawes/oracle-exercises.git
