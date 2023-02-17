@@ -7,7 +7,7 @@
 
 ## Hands-On Lab Guides
  * [Oracle](/oracle-exercises/README.md)
- * [MS SQL Server](/mssql-admin/INSTRUCTIONS.md)
+ * [MS SQL Server](/mssql-exercises/README.md)
  * [Self-Service](/self-service/INSTRUCTIONS.md)
  * [Postgres](/postgresql/instructions.md)
  * [Masking ](/masking/INSTRUCTIONS.md)
