@@ -1,0 +1,15 @@
+entries:
+  - title: sidebar
+  product: workshop
+  folders:
+    - title: overview
+      output: web
+      folderitms:
+        title: Overview
+        url: /index.html
+        output: web
+        type: homepage
+
+        title: Lab Requirements
+        url: /index.html#requirements
+        output: web
