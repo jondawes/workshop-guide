@@ -16,7 +16,7 @@ In this exercise, you will:
 _Note: You may need to scroll down on the right-hand side of the RDP window to
 see the Windows Start button or expand the screen_.
 
-![images/download/attachments/90015915/worddav1bc729235b8002f7001e71f93f5bb657.png](images/download/attachments/90015915/worddav1bc729235b8002f7001e71f93f5bb657.png)
+![./mssql-images/exercise01/01.png](./mssql-images/exercise01/01.png)
 
   * Under Authentication, select "SQL Server Authentication"
   * Log in as sa/delphix
