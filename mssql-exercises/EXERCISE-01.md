@@ -33,4 +33,4 @@ Roles](https://docs.delphix.com/display/DOCS43/The+delphix_admin+and+sysadmin+Us
 [Setting Up the Delphix
 Engine](https://docs.delphix.com/display/DOCS43/Setting+Up+the+Delphix+Engine)
 
-[**Back to MS SQL Lab Guide**](../README.md) [**Back to Worshop Guide**](/README.md)
+[Back to MS SQL Lab Guide](../README.md) | [**Back to Workshop Guide**](/README.md)
