@@ -9,10 +9,6 @@
     * [User credentials](/cloudshare/README.md#credentials)
     * [Important IP Addresses](/cloudshare/README.md#ipaddresses)
 3.  [Contribute](./contributing/README.md)
-    *   [Code of conduct](./README.md#code-of-conduct)
-    *   [Community Guidelines](./contributing/README.md#community-guidelines)
-    *   [Contributor Agreement](./contributing/CONTRIBUTING.md#contributor-agreement)
-    *   [Reporting Issues](./contributing/README.md#reporting-issues)
 4.  [Statement of Support](#statement-of-support)
 5.  [License](#license)
 
