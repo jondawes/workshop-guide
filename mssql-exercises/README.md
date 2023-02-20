@@ -1,8 +1,8 @@
   Delphix Admin for MS SQL Lab Guide
 
 ### Table of Contents
-* [Exercise 1 - Delphix Engine Configuration](#exercise1)
-* [Exercise 2 - Configure the DB User on the Source](#exercise2)
+* [Exercise 1 - Delphix Engine Configuration](./EXERCISE-01.md)
+* [Exercise 2 - Configure the DB User on the Source](./EXERCISE-02.md)
 * [Exercise 3 - Take a Backup of the Source Database](#exercise3)
 * [Exercise 4 - Configure the Windows Target/Staging Server](#exercise4)
 * [Exercise 5 - Create a Target Environment](#exercise5)
