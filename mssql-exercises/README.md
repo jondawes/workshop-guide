@@ -3,8 +3,8 @@
 ### Table of Contents
 * [Exercise 1 - Delphix Engine Configuration](./EXERCISE-01.md)
 * [Exercise 2 - Configure the DB User on the Source](./EXERCISE-02.md)
-* [Exercise 3 - Take a Backup of the Source Database](#exercise3)
-* [Exercise 4 - Configure the Windows Target/Staging Server](#exercise4)
+* [Exercise 3 - Take a Backup of the Source Database](./EXERCISE-03.md)
+* [Exercise 4 - Configure the Windows Target/Staging Server](./EXERCISE-04.md)
 * [Exercise 5 - Create a Target Environment](#exercise5)
 * [Exercise 6 - Add the Source Environment](#exercise6)
 * [Exercise 7 - Add the dSource](#exercise7)
