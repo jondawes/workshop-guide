@@ -1,3 +1,8 @@
+---
+title: Workshop Guide
+sidebar: home_sidebar
+---
+
 # Getting Started
 
 #### Table of Contents
