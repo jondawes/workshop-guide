@@ -1,4 +1,4 @@
-  Delphix Admin for MS SQL Lab Guide
+# Delphix Admin for MS SQL Lab Guide
 
 ### Table of Contents
 * [Exercise 1 - Delphix Engine Configuration](./EXERCISE-01.md)

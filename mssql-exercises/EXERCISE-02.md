@@ -55,3 +55,5 @@ see the Windows Start button or expand the screen_.
 ![images/download/attachments/90015915/worddavee9552067446e2d322be3c53ec4cb20f.png](images/download/attachments/90015915/worddavee9552067446e2d322be3c53ec4cb20f.png)
 
   * Click OK
+
+  [**Back to MS SQL Lab Guide**](../README.md) [**Back to Worshop Guide**](/README.md)
