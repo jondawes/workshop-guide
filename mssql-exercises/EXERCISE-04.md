@@ -56,4 +56,4 @@ are the same.
 
 ![images/download/attachments/90015915/worddav415115917b3a7248c896f65fd5e67a0a.png](images/download/attachments/90015915/worddav415115917b3a7248c896f65fd5e67a0a.png)
 
-[Back to MS SQL Lab Guide](../README.md) | [Back to Workshop Guide](/README.md)
+[Back to MS SQL Lab Guide](/README.md) | [Back to Workshop Guide](../README.md)

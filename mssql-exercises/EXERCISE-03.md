@@ -27,4 +27,4 @@ In this exercise, you will:
 
 11. Click Cancel
 
-[Back to MS SQL Lab Guide](../README.md) | [Back to Workshop Guide](/README.md)
+[Back to MS SQL Lab Guide](/README.md) | [Back to Workshop Guide](../README.md)

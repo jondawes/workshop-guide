@@ -56,4 +56,4 @@ see the Windows Start button or expand the screen_.
 
   * Click OK
 
-[Back to MS SQL Lab Guide](../README.md) | [Back to Workshop Guide](/README.md)
+[Back to MS SQL Lab Guide](/README.md) | [Back to Workshop Guide](../README.md)

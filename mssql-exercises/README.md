@@ -22,4 +22,4 @@
 ## Lab Exercises
 Perform these exercises when instructed by your Delphix Instructor. It is suggested that you use the latest version of the Windows MS SQL lab. This lab guide is designed for version XXX and on.
 
-[Back to Workshop Guide](/README.md)
+[Back to Workshop Guide](../README.md)
