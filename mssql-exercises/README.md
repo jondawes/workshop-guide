@@ -18,3 +18,8 @@
 * [Exercise 15 - Delink a dSource](#exercise15)
 * [Exercise 16 - Create a new User with Delphix_Admin privileges](#exercise16)
 * [Exercise 17- Check the Audit logs for user related actions](#exercise17)
+
+## Lab Exercises
+Perform these exercises when instructed by your Delphix Instructor. It is suggested that you use the latest version of the Windows MS SQL lab. This lab guide is designed for version XXX and on.
+
+[Back to Workshop Guide](/README.md)
