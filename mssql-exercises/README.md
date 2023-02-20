@@ -1,0 +1,20 @@
+  Delphix Admin for MS SQL Lab Guide
+
+### Table of Contents
+* [Exercise 1 - Delphix Engine Configuration](#exercise1)
+* [Exercise 2 - Configure the DB User on the Source](#exercise2)
+* [Exercise 3 - Take a Backup of the Source Database](#exercise3)
+* [Exercise 4 - Configure the Windows Target/Staging Server](#exercise4)
+* [Exercise 5 - Create a Target Environment](#exercise5)
+* [Exercise 6 - Add the Source Environment](#exercise6)
+* [Exercise 7 - Add the dSource](#exercise7)
+* [Exercise 8 - Provision a VDB](#exercise8)
+* [Exercise 9 - Refresh a VDB](#exercise9)
+* [Exercise10 - Rewind a VDB](#exercise10)
+* [Exercise 11 - Set a New Retention Policy](#exercise11)
+* [Exercise 12 - Create and Save a Hook Operation Template](#exercise12)
+* [Exercise 13 - Provision a VDB with Hook Template](#exercise13)
+* [Exercise 14 - Recovering a deleted table using log sync](#exercise14)
+* [Exercise 15 - Delink a dSource](#exercise15)
+* [Exercise 16 - Create a new User with Delphix_Admin privileges](#exercise16)
+* [Exercise 17- Check the Audit logs for user related actions](#exercise17)
