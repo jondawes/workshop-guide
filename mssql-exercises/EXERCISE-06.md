@@ -27,7 +27,7 @@ Before users can create their own virtual databases, Delphix needs to connect to
 
 9. Click **Submit**
 
-
+ 
 The creation is successful when "Create and discover environment 10.0.x.50"
 completes without error and WINSOURCE appears on your Delphix Environments
 page.
