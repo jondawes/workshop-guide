@@ -25,7 +25,7 @@ practice to isolate the Staging workload from the VDB workload, so that's why we
   * Click **Download Delphix Connector Installer**
   * Once it finishes downloading, click **Keep**
 
-  ![image](https://user-images.githubusercontent.com/112052485/224060881-31a356bd-ffd0-44a8-8c29-76b7f39cf917.png)
+   ![image](https://user-images.githubusercontent.com/112052485/224060881-31a356bd-ffd0-44a8-8c29-76b7f39cf917.png)
 
 
 6. Open **Windows Explorer** and go to **Downloads** folder
