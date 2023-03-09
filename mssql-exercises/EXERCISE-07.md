@@ -1,9 +1,9 @@
 # <a id="exercise7">Exercise 7 - Add the dSource
 In this exercise, you will:
 
-  * Add the AdventureWorks2008R2 dSource into Delphix and bring in the initial backup
+  * Add the 'AdventureWorks2008R2' dSource into Delphix and bring in the initial backup
 
-With an environment set up, users can then sync databases into Delphix. The Delphix engine will read the source database and create a dSource (a custom object). The dSource is not a functional image of the database but a storage-efficient object from which virtual databases can be created. When creating a dSource, Delphix will pull over the complete data set using standard database protocols. Subsequent sync operations, as governed by user-defined policies, will pull only incremental changes.
+With an environment set up, users can then sync databases into Delphix. The Delphix engine will read the source database and create a dSource (a custom object). The dSource is not a functional image of the database but a storage-efficient object from which virtual databases can be created. When creating a dSource, Delphix will pull over the complete dataset using standard database protocols. Subsequent sync operations, as governed by user-defined policies, will pull only incremental changes.
 
 ### Steps
 
