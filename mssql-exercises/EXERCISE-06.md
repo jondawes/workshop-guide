@@ -8,24 +8,31 @@ Before users can create their own virtual databases, Delphix needs to connect to
 
 ### Steps
 
-1. Navigate to your Delphix Engine at 10.0.x.10 ('x' is your **Student Number** )
-2. Log in as the delphix_admin user
-3. Go to Manage -> Environments
-4. Click the ellipses (…) and select _Add Environment_
-5. On the _Host and Server_ tab choose **Windows** as the _Host OS,_ **Source** as the _Host Type_ and **Standalone** as the _Server Type_ then click Next
+1. Navigate to your **Delphix Engine** at 10.0.x.10 ('x' is your **Student Number** )
+2. Log in as the _**admin**_ user
+3. Go to **Manage -> Environments**
+4. Click the ellipses (…) after **Environments** on the left-hand side of the screen and click on **Add Environment**
+5. Click **Windows Source** and **Standalone**
 6. Enter the details:
-  * Environment Name: WINSOURCE
-  * Host Address: 10.0.x.50 ('x' is your **Student Number** )
-  * Connector Environment: Click on WINTARGET
-  * OS Username: delphix\delphix_src
-  * OS Password: delphix
-7. Click Validate Credentials
-8. Click Submit
+   a. Environment Name: _**WINSOURCE**_
+   b. Host Address: **10.0.x.50** (‘x’ is your **Student Number**)
+   c. Connector Environment: Click on **WINTARGET**
+   d. OS Username: _**delphix\delphix_src**_
+   e. OS Password: _**delphix**_
+7. Click **Validate**
+8. Click **Next**
 
-  ![images/download/attachments/90015915/worddave7d4c3b1ae491d7bf599dd31fc8b7dce.png](images/download/attachments/90015915/worddave7d4c3b1ae491d7bf599dd31fc8b7dce.png)
+![image](https://user-images.githubusercontent.com/112052485/224073184-23cc2c69-c65e-46f3-ae99-377db3dc9c1b.png)
+
+
+9. Click **Submit**
+
 
 The creation is successful when "Create and discover environment 10.0.x.50"
 completes without error and WINSOURCE appears on your Delphix Environments
-page
+page.
+
+![image](https://user-images.githubusercontent.com/112052485/224073492-9b93c6d6-2a69-4afa-b010-50db56cd6281.png)
+
 
 [Back to MS SQL Lab Guide](/README.md) | [Back to Workshop Guide](../README.md)
