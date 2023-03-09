@@ -29,7 +29,7 @@ The target environment is the host where the virtual databases will be created.
 10. Review the **Add Environment Summary**
 11. Click **Submit**
 
-The creation is successful when **Create and discover environment 10.0.x.60** completes without error and **WINTARGET** appears on your **Delphix Environments** page.
+The creation is successful when **Create and discover environment 10.0.x.60** completes without error and **WINTARGET** appears on your **Delphix Environments** page. 
 
 
 
