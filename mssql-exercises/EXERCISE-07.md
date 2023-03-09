@@ -41,7 +41,7 @@ With an environment set up, users can then sync databases into Delphix. The Delp
 20. Review the **Summary** page and click **Submit** to start the **dSource creation process**
  
  ![image](https://user-images.githubusercontent.com/112052485/224078508-61eca947-35be-4a24-b8da-a552733d5f55.png)
-
+ 
   
 21. Go to **Manage** -> **Datasets**
 22. Monitor the **AdventureWorks** dSource addition via the progress bar and the **Actions** pane.
