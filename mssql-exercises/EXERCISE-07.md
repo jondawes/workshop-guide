@@ -7,61 +7,44 @@ With an environment set up, users can then sync databases into Delphix. The Delp
 
 ### Steps
 
-1. Navigate to Manage -> Datasets
-![images/download/attachments/90015915/worddav9e7bebc06f9b20af064be6f7cfee8f08.png](images/download/attachments/90015915/worddav9e7bebc06f9b20af064be6f7cfee8f08.png)
+1. Navigate to **Manage -> Datasets**
+2. Click on the **plus** after **Datasets** on the left part of the screen and click on **Add dSource** and click **Next** on the pop up screen
+3. Review the information on the **Preparation** tab. We created our environments in the previous exercise but for the purposes of this lab we will skip creation of new policies.
+4. Click **Next**
+5. On the **Source** tab click **AdventureWorks2008R2** under the **Data Source** list
+6. Enter the DB Username: _**delphix_db**_ with password: _**delphix**_
+7. Click **Validate** Credentials
+ 
+ ![image](https://user-images.githubusercontent.com/112052485/224075657-f6290169-41fa-4139-b400-e8237d4600d1.png)
 
-2. Click the Plus ![images/s/en_GB/7104/0e21dd459285e7b3b5e0deaa2193b2af8bbb7c8b/_/images/icons/emoticons/add.png](images/s/en_GB/7104/0e21dd459285e7b3b5e0deaa2193b2af8bbb7c8b/_/images/icons/emoticons/add.png) and choose Add dSource from the drop-down
+ 
+8. Click **Next**
+9. Click on **Add Dataset Group**
+10. Enter the Group Name: _**MS SQL Databases**_
+ 
+ ![image](https://user-images.githubusercontent.com/112052485/224076078-8f7673f9-4f86-4470-82bd-6c56750f6251.png)
 
-![images/download/attachments/90015915/worddav2958c211ddad293eda939aee9835b88b.png](images/download/attachments/90015915/worddav2958c211ddad293eda939aee9835b88b.png)
+ 
+11. Click **OK** and select the new group in the list
+12. Click **Next**
+13. Select **Use the most recent full or differential backup**
+14. For **Backup Path**, Click the **pencil** and enter: _**\\\10.0.x.50\\Backups**_ (‘**x**’ is your **Student Number**)
+15. For Validated Sync Mode, select **Transaction log backups** and click **Enabled** next to **LogSync**
+16. For Staging Environment, select **WINTARGET**
+17. Click **Next**
+ 
+ ![image](https://user-images.githubusercontent.com/112052485/224078049-f605cc0e-20ae-4fef-b92d-2dc990c9a60f.png)
 
-3. On the Add dSource wizard, review the information and pre-requisites on the Preparation tab then click Next
+ 
+18. Accept the **Default Policies** and click **Next**
+19. No **Hooks** will be used. Click **Next**
+20. Review the **Summary** page and click **Submit** to start the **dSource creation process**
+ 
+ ![image](https://user-images.githubusercontent.com/112052485/224078508-61eca947-35be-4a24-b8da-a552733d5f55.png)
 
-4. On the Source tab click the **AdventureWorks2008R2** Data Source to select it and enter the information below
-
-  1. Environment User: **delphix\delphix_src**
-
-  2. Select the **Database User** radio button
-
-  3. Database Username: **delphix_db**
-
-  4. Database Password: **delphix**
-
-5. Click **Validate**
-
-![images/download/attachments/90015915/worddav8bb0df9f181973de20b59b9d42146c90.png](images/download/attachments/90015915/worddav8bb0df9f181973de20b59b9d42146c90.png)
-
-  1. Click Next
-
-  2. Click the "Add Dataset Group" link
-
-  3. Enter the Group Name: MS SQL Databases
-
-![images/download/attachments/90015915/worddave772fb62eb64e16a9377455a00dd0751.png](images/download/attachments/90015915/worddave772fb62eb64e16a9377455a00dd0751.png)
-
-  1. Click OK and select the new group in the list
-
-  2. Click Next
-
-  3. Select "Use the most recent full or differential backup"
-
-  4. For Backup Path, enter: \\\10.0.x.50\Backups ('x' is your **Student Number** )
-
-  5. For Staging Environment, select WINTARGET
-
-  6. For Validated Sync Mode, select Transaction log backups and click Enabled next to LogSync
-
-![images/download/attachments/90015915/worddavc65a9f8c30a092fd185f8798cadb5538.png](images/download/attachments/90015915/worddavc65a9f8c30a092fd185f8798cadb5538.png)
-
-  1. Click Next
-
-  2. Click Next
-
-  3. Verify your settings and click Submit
-
-![images/download/attachments/90015915/worddav7a7c7a2bfdf971568f777ebdb65cc8f0.png](images/download/attachments/90015915/worddav7a7c7a2bfdf971568f777ebdb65cc8f0.png)
-
-  1. Go to the main Delphix page by clicking Delphix in the top left corner of the GUI
-
-  2. Monitor the AdventureWorks dSource addition via the progress bar and the Actions pane
+ 
+21. Go to **Manage** -> **Datasets**
+22. Monitor the **AdventureWorks** dSource addition via the progress bar and the **Actions** pane.
+ 
 
 [Back to MS SQL Lab Guide](/README.md) | [Back to Workshop Guide](../README.md)
