@@ -64,7 +64,7 @@ practice to isolate the Staging workload from the VDB workload, so that's why we
    ![image](https://user-images.githubusercontent.com/112052485/224064847-4d96cb0f-6edf-4058-bb90-a6643051c408.png)
 
 
-14. Press "Y" and enter
+14. Press "Y" and enter 
 
 
 
